@@ -8,17 +8,6 @@ This repository contains my solutions to LeetCode problems. My goal is to create
 
 Inside each folder, you'll find the solution file(s) and any supporting files if necessary. Here are some additional details:
   
-├── ProblemID1_ProblemTitle1
-│   ├── solution.ts
-│   ├── supporting_file1.ts
-│   └── ...
-├── ProblemID2_ProblemTitle2
-│   ├── solution.ts
-│   └── ...
-├── ProblemID3_ProblemTitle3
-│   └── solution.ts
-└── ...
-
 - `solution.ts`: This file contains my solution to the specific problem. The code is written in Python.
 - `supporting_file1.ts`, etc.: These files are supporting files that may contain helper functions, data structures, or any additional code required for the solution.
 
