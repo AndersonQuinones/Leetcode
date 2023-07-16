@@ -11,6 +11,8 @@ Inside each folder, you'll find the solution file(s) and any supporting files if
 - `solution.ts`: This file contains my solution to the specific problem. The code is written in Python.
 - `supporting_file1.ts`, etc.: These files are supporting files that may contain helper functions, data structures, or any additional code required for the solution.
 
+Feel free to explore the solutions and supporting files to understand the approaches and techniques used to solve the problems. The code is well-commented, explaining the thought process and rationale behind each step.
+
 I have included the problem's ID and title in the folder name to make it easy to navigate and locate the solutions for a specific problem. The LeetCode ID helps in identifying and searching for the problem on the LeetCode platform.
 
 By organizing my solutions in this manner, I can maintain a clean and structured repository, making it convenient to review and share my code with others.
