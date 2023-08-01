@@ -8,8 +8,8 @@ This repository contains my solutions to LeetCode problems. My goal is to create
 
 Inside each folder, you'll find the solution file(s) and any supporting files if necessary. Here are some additional details:
   
-- `solution.ts`: This file contains my solution to the specific problem. The code is written in Javascript.
-- `supporting_file1.ts`, etc.: These files are supporting files that may contain helper functions, data structures, or any additional code required for the solution.
+- `solution.js`: This file contains my solution to the specific problem. The code is written in Javascript.
+- `supporting_file1.js`, etc.: These files are supporting files that may contain helper functions, data structures, or any additional code required for the solution.
 
 Feel free to explore the solutions and supporting files to understand the approaches and techniques used to solve the problems. The code is well-commented, explaining the thought process and rationale behind each step.
 
