@@ -17,30 +17,3 @@ var evaluateTree = function(root) {
         return left && right;
     }
 };
-
-// Example usage
-// Construct the tree using your provided representation
-const tree = {
-    val: 2,
-    left: {
-        val: 1,
-        left: null,
-        right: null
-    },
-    right: {
-        val: 3,
-        left: {
-            val: 0,
-            left: null,
-            right: null
-        },
-        right: {
-            val: 1,
-            left: null,
-            right: null
-        }
-    }
-};
-
-const result = evaluateTree(tree);
-console.log(result); // Output should be true
