@@ -28,7 +28,7 @@ var maxDepth = function(root) {
 
         // Increment the depth after processing each level
         depth++;
-    }
+    } 
 
     // Return the final depth of the binary tree
     return depth;
