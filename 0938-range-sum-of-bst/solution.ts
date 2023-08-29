@@ -18,23 +18,4 @@ function rangeSumBST(root, low, high) {
     sum += rangeSumBST(root.right, low, high);
 
     return sum; // Return the total sum of values within the specified range
-}
-
-// Example usage
-const root = new TreeNode(10);
-root.left = new TreeNode(5);
-root.right = new TreeNode(15);
-root.left.left = new TreeNode(3);
-root.left.right = new TreeNode(7);
-root.right.right = new TreeNode(18);
-
-const low = 7;
-const high = 15;
-const result = rangeSumBST(root, low, high);
-console.log(result); // Output should be 32 (7 + 10 + 15)
-I've added comments to each section of the code to explain its purpose and how it contributes to calculating the sum of values within the specified range in a binary search tree.
-
-
-
-
-
+};
