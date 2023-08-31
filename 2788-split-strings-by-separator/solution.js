@@ -13,4 +13,4 @@ function splitWordsBySeparator(words, separator) {
 
     // Return the array of new strings formed after the splits.
     return result;
-}
+};
