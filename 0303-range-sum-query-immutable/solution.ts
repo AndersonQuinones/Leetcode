@@ -17,4 +17,4 @@ class NumArray {
     // The sum of elements from left to right is given by the difference between prefixSum[right + 1] and prefixSum[left].
     return this.prefixSum[right + 1] - this.prefixSum[left];
   }
-}
+};
