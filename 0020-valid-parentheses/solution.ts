@@ -1,4 +1,4 @@
-function isValid(s: string): boolean {
+jfunction isValid(s: string): boolean {
   // Define a map that holds the opening and closing brackets
   const map = {"(":")", "{":"}", "[":"]"};
 
@@ -25,3 +25,6 @@ function isValid(s: string): boolean {
   // After processing all characters, the stack should be empty for a valid string
   return stack.length === 0;
 };
+
+
+
