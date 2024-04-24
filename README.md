@@ -18,5 +18,5 @@ I have included the problem's ID and title in the folder name to make it easy to
 By organizing my solutions in this manner, I can maintain a clean and structured repository, making it convenient to review and share my code with others.
 
 Please note that the solutions provided are my own interpretations and may not be the only or the most optimal solutions for the given problems. I continuously strive to improve my coding skills, and I welcome any feedback or alternative solutions that may enhance the overall quality of the repository.
-
+ 
 Happy coding!
