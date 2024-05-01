@@ -3,7 +3,7 @@ var MyQueue = function() {
     this.stack2 = [];
 };
 
-/** 
+/**
  * @param {number} x
  * @return {void}
  */
